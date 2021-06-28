@@ -24,7 +24,7 @@ a:hover{
     display:flex;
     flex-direction: column;
 }
-.middle{
+/* .middle{
     display: flex;
     flex-direction: row;
 }
@@ -35,4 +35,29 @@ a:hover{
 .container-right{
        display: flex;
     max-width: 70%;
+} */
+
+.personal_navbar {
+    height: 20;
+  
+}
+.middle-container{
+    height:80%;
+
+}
+.mandatory{
+    text-align: center;
+    font-size: 1.5em;
+
+}
+.img{
+    width: 30%;
+
+}
+.para{
+width:70%;
+}
+.content{
+    display:flex;
+    flex-direction: row;
 }
